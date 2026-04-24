@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "/home/alberto24/conquerblocks-django-inicial/02_code/conquerblocks_project/.venv/bin/python",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}"
+  ],
+  "python.analysis.typeCheckingMode": "basic",
+  "python.linting.enabled": true,
+  "editor.formatOnSave": false
+}
